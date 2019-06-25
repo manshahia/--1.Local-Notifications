@@ -2,9 +2,8 @@
 //  AppDelegate.swift
 //  LocalNotification
 //
-//  Created by Debash on 05.06.2018.
-//  Copyright © 2018 swiftbook.ru. All rights reserved.
-//
+//  Created by Ravi Inder Manshahia on 25/06/19.
+//  Copyright © 2019 Naresh Kumar. All rights reserved.//
 
 import UIKit
 import UserNotifications
